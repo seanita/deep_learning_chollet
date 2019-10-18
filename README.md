@@ -1,1 +1,1 @@
-# Deep Learning with Python (F. Chollet's book)
+# Deep Learning with Python (F. Chollet's exercises)
